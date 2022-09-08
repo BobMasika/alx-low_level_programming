@@ -1,10 +1,14 @@
 #include <stdio.h>
-#define main
 
-/* Prints the statement as shown */
-
+/**
+ * prints the statement as shown
+ *
+ * main-entry point
+ *
+ * return: Always 0 (success)
+ */
 int main(void)
 {
-	puts("Programming is like building a mulitingual puzzle");
-	return 0;
+	puts("Programming is like building a multilingual language");
+	return (0);
 }
