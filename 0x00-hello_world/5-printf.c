@@ -3,8 +3,6 @@
 /**
  *main-Entry point
  *
- * @printf: print value shown
- *
  * Return: Always 0 (Success)
  */
 int main(void)
