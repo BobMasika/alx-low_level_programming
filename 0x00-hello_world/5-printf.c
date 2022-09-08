@@ -1,11 +1,9 @@
 #include <stdio.h>
 
 /**
- *main-Ent point
+ *main-Entry point
  *
- *print- print string in quotes
- *
- * return 0: success
+ * return: Always 0 (Success)
  */
 int main(void)
 {
