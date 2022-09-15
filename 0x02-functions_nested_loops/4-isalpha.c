@@ -3,15 +3,15 @@
 /**
  * _isalpha - checks for alphabetic character
  *
- * @c: the int that will use th for argument of the the function
+ * @c: the int that will use for argument of the the function
  *
  * Return: 0
  */
 int _isalpha(int c)
 {
-	if ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'))
+			if ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'))
 			{
-				return (1);
+			return (1);
 			}
 			else
 			return (0);
