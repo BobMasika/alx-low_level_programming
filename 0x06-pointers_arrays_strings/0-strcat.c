@@ -8,8 +8,6 @@
  *
  * @src: pointer to the source string.
  *
- * @n: number of bytes to be concatenated.
- *
  * Return: pointer to destinaton string.
  */
 char *_strcat(char *dest, char *src)
