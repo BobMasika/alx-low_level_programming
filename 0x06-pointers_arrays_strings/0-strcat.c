@@ -15,8 +15,6 @@
 char *_strcat(char *dest, char *src)
 {
 	int length, j;
-	/* j is a counter for n bytes of src to be concatenated */
-	/* length = length of destination string */
 
 	length = 0;
 	while (dest[length] != '\0')
